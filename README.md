@@ -10,7 +10,7 @@ Set has_bike to True or False depending on whether you have a bicycle.
 
 Set has_car to True or False depending on whether you have a car.
 
-Set has_ride_share_app to True or False depending on whether you have a ride-share app.
+Set has_ride_share_app to True or False depending on whether you have a ride share app.
 
 Run the program to see whether commuting is possible.
 
